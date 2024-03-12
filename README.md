@@ -12,5 +12,4 @@ This course will consist of 4 chapters:
 4. MS Compliance solutions
 
 This is of course a kick-off as this platform continues to grow. Feedback on improvements is much appreciated!
-
 You can reach me via LinkedIn here: https://www.linkedin.com/in/glenn-vandenborre-696545155/
